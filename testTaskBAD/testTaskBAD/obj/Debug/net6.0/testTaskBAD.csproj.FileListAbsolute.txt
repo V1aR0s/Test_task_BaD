@@ -1,0 +1,15 @@
+C:\Users\vlaro\Documents\ruby\telegram_bot\Test_Task_BAD\testTaskBAD\testTaskBAD\bin\Debug\net6.0\testTaskBAD.exe
+C:\Users\vlaro\Documents\ruby\telegram_bot\Test_Task_BAD\testTaskBAD\testTaskBAD\bin\Debug\net6.0\testTaskBAD.deps.json
+C:\Users\vlaro\Documents\ruby\telegram_bot\Test_Task_BAD\testTaskBAD\testTaskBAD\bin\Debug\net6.0\testTaskBAD.runtimeconfig.json
+C:\Users\vlaro\Documents\ruby\telegram_bot\Test_Task_BAD\testTaskBAD\testTaskBAD\bin\Debug\net6.0\testTaskBAD.dll
+C:\Users\vlaro\Documents\ruby\telegram_bot\Test_Task_BAD\testTaskBAD\testTaskBAD\bin\Debug\net6.0\testTaskBAD.pdb
+C:\Users\vlaro\Documents\ruby\telegram_bot\Test_Task_BAD\testTaskBAD\testTaskBAD\obj\Debug\net6.0\testTaskBAD.csproj.AssemblyReference.cache
+C:\Users\vlaro\Documents\ruby\telegram_bot\Test_Task_BAD\testTaskBAD\testTaskBAD\obj\Debug\net6.0\testTaskBAD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlaro\Documents\ruby\telegram_bot\Test_Task_BAD\testTaskBAD\testTaskBAD\obj\Debug\net6.0\testTaskBAD.AssemblyInfoInputs.cache
+C:\Users\vlaro\Documents\ruby\telegram_bot\Test_Task_BAD\testTaskBAD\testTaskBAD\obj\Debug\net6.0\testTaskBAD.AssemblyInfo.cs
+C:\Users\vlaro\Documents\ruby\telegram_bot\Test_Task_BAD\testTaskBAD\testTaskBAD\obj\Debug\net6.0\testTaskBAD.csproj.CoreCompileInputs.cache
+C:\Users\vlaro\Documents\ruby\telegram_bot\Test_Task_BAD\testTaskBAD\testTaskBAD\obj\Debug\net6.0\testTaskBAD.dll
+C:\Users\vlaro\Documents\ruby\telegram_bot\Test_Task_BAD\testTaskBAD\testTaskBAD\obj\Debug\net6.0\refint\testTaskBAD.dll
+C:\Users\vlaro\Documents\ruby\telegram_bot\Test_Task_BAD\testTaskBAD\testTaskBAD\obj\Debug\net6.0\testTaskBAD.pdb
+C:\Users\vlaro\Documents\ruby\telegram_bot\Test_Task_BAD\testTaskBAD\testTaskBAD\obj\Debug\net6.0\testTaskBAD.genruntimeconfig.cache
+C:\Users\vlaro\Documents\ruby\telegram_bot\Test_Task_BAD\testTaskBAD\testTaskBAD\obj\Debug\net6.0\ref\testTaskBAD.dll
